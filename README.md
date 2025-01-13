@@ -8,19 +8,19 @@ Le Mistral para a carta e aprimoramento do prompt de imagem.
 PicLumen para criação de imagem
 
 ## 🧐 Processo de Criação
-Meu objetivo foi criar uma narrativa e imagem convincente de memórias de um neto junto ao avô, e para isso quis criar um retrato deles juntos, e um texto que contasse na perspectiva do neto, agora pai, que lembra do avê e quer honra-lo.
+Meu objetivo foi criar uma narrativa e imagem convincente de memórias de um neto junto ao avô, e para isso quis criar um retrato deles juntos, e um texto que contasse na perspectiva do neto, agora pai, que lembra do avô e quer honrá-lo.
 
 Selecionei imagem realista e de 1:1 (para simular imagens antigas) O prompt para imagem foi:
 A grandfather and a kid with a wooden toy car, captured in a polaroid photo, giving it an old, vintage, and low-quality appearance.
 
 E o prompt para a carta foi:
-Agora você é Ricardo, um homem adulto de 45 anos com filhos, que encontrou a foto antiga do seu avô Antonio, e escreveu uma carta para ele, faça algo bem emocionante e com contexto, inclua o quão ama ele, o homem honrado que é e suas lembranças com ele, frases que ele dizia, o texto deve ser profundo e bem pessoal.
+Agora você é Ricardo, um homem adulto de 45 anos com filhos, que encontrou a foto antiga do seu avô Antonio, na foto está você e ele no quintal e na frente um carrinho de madeira na mesa, era ele que fazia os brinquedos para você, ao relembrar desses momentos ao ver a foto, você escreveu uma carta para ele, faça algo bem emocionante e com contexto, inclua o quanto o ama, o homem honrado que é, a simplicidade e as gambiarras que fazia, lembre o quanto te alegrava receber os brinquedos de madeira que ele fazia, e outras lembranças com ele, frases que ele dizia, cite que os compromissos os distanciou mas que você o mais próximo possível irá visita-lo com sua esposa e filhos, cite no texto também ao longo do texto as lições que repassa para seus filhos, comente também um pouquinho sobre os netos dele. o texto deve ser profundo e bem pessoal
 
 ## 🚀 Resultados
 Razoável, a imagem dele com o avô ficou boa, mas a carta queria que fosse uma imagem também (eu facilmente faria isso em um software de edição de imagem), mas meu objetivo foi ultilizar apenas IA.
 
 ## 💭 Reflexão (Opcional)
-Não foi tão fácil, de inicio iria criar avós brincando com o neto em um balanço, mas deu errado a IA não compreendeu, depois tentei que criassem imagem deles jogando futebol, um desastre também, depois pensei nisso, uma imagem mais individual, o neto e o vô fazendo algo, brincando de carrinho, o maior desafio foi adicionar contexto, tanto na imagem, principalmente encontrar o estilo, e na carta pensar em o que deixaria ela profunda.
+Não foi tão fácil, de inicio iria criar avós brincando com o neto em um balanço, mas deu errado a IA não compreendeu, depois tentei que a IA criasse uma imagem deles jogando futebol, um desastre também, depois pensei nisso, uma imagem mais individual, o neto e o vô fazendo algo, brincando de carrinho, o maior desafio foi adicionar contexto, tanto na imagem, principalmente encontrar o estilo, e na carta pensar em o que a tornaria mais profunda.
 
 
 
