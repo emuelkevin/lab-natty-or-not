@@ -43,4 +43,4 @@ _Espero ansiosamente pelo dia em que poderemos nos reunir novamente, compartilha
 
 _Com todo o meu amor e gratidão._
 
-_Ricardo_
+_Ricardo._
