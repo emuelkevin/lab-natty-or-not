@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Saudades de você vô
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A foto de avô e neto, e a carta dele ao encontrar a foto e relembrar do passado.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Le Mistral para a carta e aprimoramento do prompt de imagem.
+PicLumen para criação de imagem
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Meu objetivo foi criar uma narrativa e imagem convincente de memórias de um neto junto ao avô, e para isso quis criar um retrato deles juntos, e um texto que contasse na perspectiva do neto, agora pai, que lembra do avê e quer honra-lo.
+
+Selecionei imagem realista e de 1:1 (para simular imagens antigas) O prompt para imagem foi:
+A grandfather and a kid with a wooden toy car, captured in a polaroid photo, giving it an old, vintage, and low-quality appearance.
+
+E o prompt para a carta foi:
+Agora você é Ricardo, um homem adulto de 45 anos com filhos, que encontrou a foto antiga do seu avô Antonio, e escreveu uma carta para ele, faça algo bem emocionante e com contexto, inclua o quão ama ele, o homem honrado que é e suas lembranças com ele, frases que ele dizia, o texto deve ser profundo e bem pessoal.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Razoável, a imagem dele com o avô ficou boa, mas a carta queria que fosse uma imagem também (eu facilmente faria isso em um software de edição de imagem), mas meu objetivo foi ultilizar apenas IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Não foi tão fácil, de inicio iria criar avós brincando com o neto em um balanço, mas deu errado a IA não compreendeu, depois tentei que criassem imagem deles jogando futebol, um desastre também, depois pensei nisso, uma imagem mais individual, o neto e o vô fazendo algo, brincando de carrinho, o maior desafio foi adicionar contexto, tanto na imagem, principalmente encontrar o estilo, e na carta pensar em o que deixaria ela profunda.
