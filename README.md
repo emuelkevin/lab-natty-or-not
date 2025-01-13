@@ -1,3 +1,25 @@
+![Nossa Foto](https://images.piclumen.com/normal/20250114/04/2d77fbf8d7474ca49c271284d07f5fca.webp)
+_Querido Vovô Antonio_
+
+_Enquanto escrevo esta carta, tenho em mãos uma foto que me transporta para um tempo precioso da minha vida. Nela, estamos você e eu no quintal, com um carrinho de madeira na mesa. Esse carrinho, como tantos outros brinquedos que você fazia, é um símbolo do amor e da dedicação que sempre teve por mim._
+
+_Lembro-me como se fosse ontem dos momentos que passamos juntos. Sua simplicidade e suas gambiarras sempre me encantaram. Você tinha um jeito único de transformar pedaços de madeira em verdadeiras obras de arte, e cada brinquedo que recebia de você era uma alegria imensa. Aqueles carrinhos, aviões e barcos de madeira não eram apenas brinquedos; eram pedaços do seu coração, feitos com tanto carinho e cuidado._
+
+_Você sempre foi um homem honrado, vovô. Suas palavras e ações sempre refletiram a integridade e a bondade que carregava no coração. Lembro-me das frases que você dizia, como "A vida é feita de momentos simples, mas são esses momentos que nos constroem". Essas palavras ficaram gravadas em mim e hoje repasso essas lições para meus filhos._
+
+*Os compromissos da vida nos distanciaram, mas o amor e a saudade que sinto de você nunca diminuíram. Quero que saiba que, assim que possível, irei visitá-lo com minha esposa e nossos filhos. Eles precisam conhecer o avô maravilhoso que eu tive a sorte de ter. Seus netos, meus filhos, são crianças cheias de vida e curiosidade, e tenho certeza de que vão adorar ouvir suas histórias e ver suas criações.*
+
+*Vovô, você é uma das pessoas mais importantes da minha vida. O amor que sinto por você é imenso e incondicional. Sua presença, mesmo que à distância, continua a me inspirar e a me guiar. Quero que saiba que suas lições e seu exemplo estão sendo passados para as próximas gerações. Meus filhos já sabem das histórias do vovô Antonio, o homem que fazia brinquedos de madeira e que tinha um coração cheio de amor e sabedoria.*
+
+_Espero ansiosamente pelo dia em que poderemos nos reunir novamente, compartilhar risos e lembranças, e criar novos momentos juntos. Até lá, saiba que você está sempre no meu coração e nos meus pensamentos._
+
+_Com todo o meu amor e gratidão._
+
+_Ricardo._
+
+
+
+
 # Saudades de você vô
 
 ## 📒 Descrição
@@ -22,26 +44,3 @@ Razoável, a imagem dele com o avô ficou boa, mas a carta queria que fosse uma 
 
 ## 💭 Reflexão (Opcional)
 Não foi tão fácil, de inicio iria criar avós brincando com o neto em um balanço, mas deu errado a IA não compreendeu, depois tentei que a IA criasse uma imagem deles jogando futebol, um desastre também, depois pensei nisso, uma imagem mais individual, o neto e o vô fazendo algo, brincando de carrinho, o maior desafio foi adicionar contexto, tanto na imagem, principalmente encontrar o estilo, e na carta pensar em o que a tornaria mais profunda.
-
-
-
-
-# 💌 Carta para meu vô
-![Nossa Foto](https://images.piclumen.com/normal/20250114/04/2d77fbf8d7474ca49c271284d07f5fca.webp)
-_Querido Vovô Antonio_
-
-_Enquanto escrevo esta carta, tenho em mãos uma foto que me transporta para um tempo precioso da minha vida. Nela, estamos você e eu no quintal, com um carrinho de madeira na mesa. Esse carrinho, como tantos outros brinquedos que você fazia, é um símbolo do amor e da dedicação que sempre teve por mim._
-
-_Lembro-me como se fosse ontem dos momentos que passamos juntos. Sua simplicidade e suas gambiarras sempre me encantaram. Você tinha um jeito único de transformar pedaços de madeira em verdadeiras obras de arte, e cada brinquedo que recebia de você era uma alegria imensa. Aqueles carrinhos, aviões e barcos de madeira não eram apenas brinquedos; eram pedaços do seu coração, feitos com tanto carinho e cuidado._
-
-_Você sempre foi um homem honrado, vovô. Suas palavras e ações sempre refletiram a integridade e a bondade que carregava no coração. Lembro-me das frases que você dizia, como "A vida é feita de momentos simples, mas são esses momentos que nos constroem". Essas palavras ficaram gravadas em mim e hoje repasso essas lições para meus filhos._
-
-*Os compromissos da vida nos distanciaram, mas o amor e a saudade que sinto de você nunca diminuíram. Quero que saiba que, assim que possível, irei visitá-lo com minha esposa e nossos filhos. Eles precisam conhecer o avô maravilhoso que eu tive a sorte de ter. Seus netos, meus filhos, são crianças cheias de vida e curiosidade, e tenho certeza de que vão adorar ouvir suas histórias e ver suas criações.*
-
-*Vovô, você é uma das pessoas mais importantes da minha vida. O amor que sinto por você é imenso e incondicional. Sua presença, mesmo que à distância, continua a me inspirar e a me guiar. Quero que saiba que suas lições e seu exemplo estão sendo passados para as próximas gerações. Meus filhos já sabem das histórias do vovô Antonio, o homem que fazia brinquedos de madeira e que tinha um coração cheio de amor e sabedoria.*
-
-_Espero ansiosamente pelo dia em que poderemos nos reunir novamente, compartilhar risos e lembranças, e criar novos momentos juntos. Até lá, saiba que você está sempre no meu coração e nos meus pensamentos._
-
-_Com todo o meu amor e gratidão._
-
-_Ricardo._
