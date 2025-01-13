@@ -19,14 +19,10 @@ _Ricardo._
 
 
 
-
-
-
-
 # Projeto "Saudades de você vô"
 
 ## 📒 Descrição
-A foto de avô e neto, e a carta do garoto (agora com 45 anos e com filhos) para o avô ao encontrar a foto deles, e relembrar do passado.
+Meu objetivo foi testar a capacidade da IA de criar uma narrativa e imagem convincente de memórias de neto e avô, e para isso quis criar um retrato deles juntos, e um texto que contasse na perspectiva do neto, agora pai, que lembra do avô e com muita saudade o manda uma carta.
 
 ## 🤖 Tecnologias Utilizadas
 **Le Mistral** para a carta e aprimoramento do prompt de imagem.
@@ -34,8 +30,6 @@ A foto de avô e neto, e a carta do garoto (agora com 45 anos e com filhos) para
 **PicLumen** para criação de imagem
 
 ## 🧐 Processo de Criação
-Meu objetivo foi testar a capacidade da IA de criar uma narrativa e imagem convincente de memórias de um neto junto ao avô, e para isso quis criar um retrato deles juntos, e um texto que contasse na perspectiva do neto, agora pai, que lembra do avô e quer honrá-lo.
-
 **Selecionei imagem realista e de 1:1 (para simular imagens antigas) O prompt para imagem foi:**
 A grandfather and a kid with a wooden toy car, captured in a polaroid photo, giving it an old, vintage, and low-quality appearance.
 
