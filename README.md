@@ -23,7 +23,9 @@ Razoável, a imagem dele com o avô ficou boa, mas a carta queria que fosse uma 
 Não foi tão fácil, de inicio iria criar avós brincando com o neto em um balanço, mas deu errado a IA não compreendeu, depois tentei que criassem imagem deles jogando futebol, um desastre também, depois pensei nisso, uma imagem mais individual, o neto e o vô fazendo algo, brincando de carrinho, o maior desafio foi adicionar contexto, tanto na imagem, principalmente encontrar o estilo, e na carta pensar em o que deixaria ela profunda.
 
 
-## 💌 Carta para meu vô
+
+
+# 💌 Carta para meu vô
 ![Nossa Foto](https://images.piclumen.com/normal/20250114/04/2d77fbf8d7474ca49c271284d07f5fca.webp)
 _Querido Vovô Antonio_
 
