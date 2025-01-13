@@ -24,9 +24,9 @@ Não foi tão fácil, de inicio iria criar avós brincando com o neto em um bala
 
 ## 💌 Carta para meu vô
 ![Nossa Foto](https://images.piclumen.com/normal/20250114/04/2d77fbf8d7474ca49c271284d07f5fca.webp)
-Querido Vovô Antonio,
+*Querido Vovô Antonio,
 
-*Enquanto escrevo esta carta, tenho em mãos uma foto que me transporta para um tempo precioso da minha vida. Nela, estamos você e eu no quintal, com um carrinho de madeira na mesa. Esse carrinho, como tantos outros brinquedos que você fazia, é um símbolo do amor e da dedicação que sempre teve por mim.
+Enquanto escrevo esta carta, tenho em mãos uma foto que me transporta para um tempo precioso da minha vida. Nela, estamos você e eu no quintal, com um carrinho de madeira na mesa. Esse carrinho, como tantos outros brinquedos que você fazia, é um símbolo do amor e da dedicação que sempre teve por mim.
 
 Lembro-me como se fosse ontem dos momentos que passamos juntos. Sua simplicidade e suas gambiarras sempre me encantaram. Você tinha um jeito único de transformar pedaços de madeira em verdadeiras obras de arte, e cada brinquedo que recebia de você era uma alegria imensa. Aqueles carrinhos, aviões e barcos de madeira não eram apenas brinquedos; eram pedaços do seu coração, feitos com tanto carinho e cuidado.
 
